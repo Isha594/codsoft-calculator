@@ -17,5 +17,5 @@ The Calculator Application is a simple console-based application written in C th
 - **C**: The programming language used for the application.
 - **GCC**: The GNU Compiler Collection, used to compile the C program.
 
-## File Structure
+
 
