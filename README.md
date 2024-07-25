@@ -18,4 +18,14 @@ The Calculator Application is a simple console-based application written in C th
 - **GCC**: The GNU Compiler Collection, used to compile the C program.
 
 
+#Code Structure
+main.c
+The main source file contains the following functions:
+
+main(): The entry point of the program.
+add(): Function to perform addition.
+subtract(): Function to perform subtraction.
+multiply(): Function to perform multiplication.
+divide(): Function to perform division.
+
 
